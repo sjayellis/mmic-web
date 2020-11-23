@@ -4,7 +4,7 @@
     "palette": "blue",
     "header": {
         "title": "MMIC",
-        "tagline": "Header Tagline",
+        "tagline": "MolSSI Project",
         "profile_img": "images/avatar.png",
         "background": "dark",
         "has_nav": true,
