@@ -3,7 +3,7 @@
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "MolSSI MM",
+        "title": "",
         "tagline": "Header Tagline",
         "profile_img": "images/avatar.png",
         "background": "dark",
