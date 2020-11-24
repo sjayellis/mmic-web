@@ -25,7 +25,7 @@ sections:
       assessment without the need for deep scientific expertise.
   - section_id: recent-posts
     type: section_posts
-    title: Components
+    title: Components Under Development
     posts_number: 4
     actions:
       - label: View Blog
