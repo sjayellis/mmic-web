@@ -1,7 +1,7 @@
 {
     "description": "MolSSI MM Ecosystem",
     "layout_style": "overflow",
-    "palette": "blue",
+    "palette": "orange",
     "header": {
         "title": "Project",
         "tagline": "",
