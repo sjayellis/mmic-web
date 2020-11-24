@@ -30,15 +30,9 @@ sections:
     actions: []
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |-
+      ## Docking
+      Molecular docking engine based on **Autodock Vin**
     actions: []
     type: section_content
 template: advanced
