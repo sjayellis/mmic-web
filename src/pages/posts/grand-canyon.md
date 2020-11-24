@@ -2,7 +2,7 @@
 title: Docking
 excerpt: Molecular docking engine based on Autodock Vina
 date: '2019-03-10'
-thumb_img_path: images/1.jpg
+thumb_img_path: images/remarkable-owl.png
 content_img_path: images/8.jpg
 template: post
 ---
