@@ -9,9 +9,8 @@ template: post
 # What is Docking?
 Docking is a computational technique used to determine the optimal binding modes of a ligand-receptor system. A ligand is typically a small (e.g. drug) molecule that binds to a macromolecular receptor such as a protein. A docking simulation estimates the strength of the binding (or a quantitative "score") in the vicinity of the receptor's binding site. Each score corresponds to the 3D conformation and orientation (or "pose") of the ligand relative to the receptor.
 
-<p align="center">
-<img src="mmic_docking/data/imgs/docking-sys.png" width="500">
-</p>
+![Image of Docking](https://github.com/MolSSI/MMIC_docking/blob/master/mmic_docking/data/imgs/docking-sys.png?raw=true)
+
     
 Applications of docking include:
 
@@ -43,9 +42,7 @@ dock_input = DockingInput(ligand=ligand_data, receptor=receptor_data)
 
 ## Running Docking with AutoDock Vina component
 
-<p align="center">
-<img src="mmic_docking/data/imgs/autodock.png">
-</p>
+![Image of Comp](https://github.com/MolSSI/MMIC_docking/blob/master/mmic_docking/data/imgs/autodock.png?raw=true)
 
 ```python
 # Import docking simulation component for autodock vina
