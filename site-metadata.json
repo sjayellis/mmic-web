@@ -46,7 +46,7 @@
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "",
                 "style": "icon",
                 "icon_class": "fa-instagram",
                 "new_window": true
