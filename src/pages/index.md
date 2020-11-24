@@ -23,7 +23,7 @@ sections:
       components, experimentation to find a quality series of components for
       specific problems and systems, and a mechanism for quality methodological
       assessment without the need for deep scientific expertise.
-  - section_id: recent-posts
+  - section_id: components
     type: section_posts
     title: Components Under Development
     posts_number: 4
