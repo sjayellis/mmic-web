@@ -1,7 +1,7 @@
 ---
 title: Docking
 excerpt: Molecular docking engine based on Autodock Vina
-thumb_img_path: images/maroon-sun.png
+thumb_img_path: images/docking-sys.png
 template: post
 ---
 # What is Docking?
@@ -9,7 +9,6 @@ Docking is a computational technique used to determine the optimal binding modes
 
 ![Image of Docking](https://github.com/MolSSI/MMIC_docking/blob/master/mmic_docking/data/imgs/docking-sys.png?raw=true)
 
-    
 Applications of docking include:
 
 - Virtual screening (hit identification)
@@ -32,6 +31,18 @@ ligand_data     = Molecule.from_data(smiles_code)
 
 # Import docking data model
 from mmic_docking.models.docking.input import DockingInput
+
+# Construct docking input data from molecules
+=======
+# Import molecule schema model
+from mmelemental.models.molecule.mm_molecule import Molecule
+
+# Construct molecules
+receptor_data   = MMolecule.from_file(pdb_file)
+ligand_data     = MMolecule.from_data(smiles_code)
+
+# Import docking data model
+from mmcomponents_docking.models.docking.input import DockingInput
 
 # Construct docking input data from molecules
 dock_input = DockingInput(ligand=ligand_data, receptor=receptor_data)
