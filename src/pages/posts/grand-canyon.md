@@ -1,5 +1,5 @@
 ---
-title: Docking
+title: Dynamics
 excerpt: Molecular docking engine based on Autodock Vina
 date: ''
 thumb_img_path: images/remarkable-owl.png
