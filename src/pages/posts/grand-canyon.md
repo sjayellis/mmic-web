@@ -1,7 +1,7 @@
 ---
 title: Docking
 excerpt: Molecular docking engine based on Autodock Vina
-date: '0002-01-01'
+date: '2020-01-01'
 thumb_img_path: images/maroon-sun.png
 template: post
 ---
