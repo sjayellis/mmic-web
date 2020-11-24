@@ -1,10 +1,6 @@
 ---
 title: Parameterization
-excerpt: >-
-  Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
-  as such. This specifically refers to difficult walking through dense forest,
-  undergrowth, or bushes, where forward progress requires pushing vegetation
-  aside.
+excerpt: A component for generating parametrized molecules
 date: '2020-11-09'
 thumb_img_path: images/martini.png
 content_img_path: images/6.jpg
