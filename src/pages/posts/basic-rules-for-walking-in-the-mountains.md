@@ -20,7 +20,11 @@ MM Component for Forcefield Parametrization
 
 A component for generating parametrized molecules.
 
-![Image of Yaktocat](https://github.com/MolSSI/MMIC_forcefield/blob/master/mmic_parametrization/data/ff_component.png?raw=true)
+![Image of Yaktocat](https://github.com/MolSSI/MMIC_parametrization/blob/master/mmic_forcefield/data/ff_component.png?raw=true)
 
-Supported engines:
+**Supported engines**:
 - [Auto Martini](https://github.com/tbereau/auto_martini): automated [MARTINI](http://www.cgmartini.nl) forcefield mapping and parametrization of small organic molecules.
+
+**Supported force fields**:
+- [Martini](http://www.cgmartini.nl): coarse-grain (CG) force field suited for molecular dynamics simulations of biomolecular systems.
+
