@@ -26,7 +26,7 @@ sections:
   - section_id: components
     type: section_posts
     title: Components Under Development
-    posts_number: 3
+    posts_number: 2
     actions: []
 template: advanced
 ---
