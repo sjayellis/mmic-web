@@ -1,6 +1,8 @@
 ---
 title: Parameterization
-excerpt: A component for generating parametrized molecules
+excerpt: >-
+  A component for generating parametrized molecules using the Martini CG
+  forcefield
 date: '2020-11-09'
 thumb_img_path: images/martini.png
 content_img_path: images/6.jpg
