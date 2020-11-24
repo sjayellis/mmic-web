@@ -1,6 +1,6 @@
 {
     "description": "MolSSI MM Ecosystem",
-    "layout_style": "overflow",
+    "layout_style": "simple",
     "palette": "blue",
     "header": {
         "title": "Project",
@@ -21,8 +21,9 @@
             },
             {
                 "label": "MMElemental",
-                "url": "/style-guide/",
-                "style": "link"
+                "url": "https://github.com/MolSSI/MMElemental",
+                "style": "link",
+                "new_window": true
             },
             {
                 "label": "About",
