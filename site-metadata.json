@@ -6,7 +6,7 @@
         "title": "MolSSI ",
         "tagline": "",
         "profile_img": "images/molssi_main_logo.png",
-        "background": "dark",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
