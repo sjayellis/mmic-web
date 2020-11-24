@@ -18,7 +18,13 @@ sections:
     type: section_posts
     title: Components Under Development
     posts_number: 3
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - title: lorem-ipsum
     section_id: lorem-ipsum
     content: >-
