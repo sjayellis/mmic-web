@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: ''
-img_path: images/about.jpg
+img_path: images/mmic.png
 template: page
 ---
 
