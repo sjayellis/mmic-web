@@ -3,7 +3,6 @@ title: Docking
 excerpt: Molecular docking engine based on Autodock Vina
 date: '2020-03-10'
 thumb_img_path: images/remarkable-owl.png
-content_img_path: images/8.jpg
 template: post
 ---
 # What is Docking?
