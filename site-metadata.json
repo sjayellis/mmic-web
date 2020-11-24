@@ -7,7 +7,7 @@
         "tagline": "",
         "profile_img": "images/molssi_main_logo.png",
         "background": "dark",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "MMIC",
