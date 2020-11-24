@@ -3,9 +3,8 @@ title: Parameterization
 excerpt: >-
   A component for generating parametrized molecules based on the Martini CG
   forcefield
-date: '2020-11-09'
+date: ''
 thumb_img_path: images/martini.png
-content_img_path: images/6.jpg
 template: post
 ---
 MM Component for Forcefield Parametrization
