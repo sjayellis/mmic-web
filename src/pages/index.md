@@ -27,9 +27,6 @@ sections:
     type: section_posts
     title: Components Under Development
     posts_number: 3
-    actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
+    actions: []
 template: advanced
 ---
