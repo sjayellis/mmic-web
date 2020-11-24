@@ -35,5 +35,6 @@ sections:
       Molecular docking engine based on **Autodock Vin**
     actions: []
     type: section_content
+    image: images/autodock.png
 template: advanced
 ---
