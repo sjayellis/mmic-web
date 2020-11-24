@@ -28,13 +28,5 @@ sections:
     title: Components Under Development
     posts_number: 5
     actions: []
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    content: |-
-      ## Docking
-      Molecular docking engine based on **Autodock Vin**
-    actions: []
-    type: section_content
-    image: images/autodock.png
 template: advanced
 ---
