@@ -1,5 +1,5 @@
 ---
-title: Minimalist Travel - A Weekend in Japan
+title: molecular docking engine based on Autodock Vina
 excerpt: >-
   The Shrines of Ise have been celebrated as the prototype of Japanese
   architecture. Largely of wood, traditional housing and many temple buildings
