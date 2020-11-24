@@ -2,7 +2,7 @@
 title: Docking
 excerpt: Molecular docking engine based on Autodock Vina
 date: ''
-thumb_img_path: images/docking-sys.png
+thumb_img_path: images/4.jpg
 template: post
 ---
 # What is Docking?
