@@ -1,6 +1,6 @@
 ---
 title: Docking
-excerpt: 'Docking: molecular docking engine based on Autodock Vina'
+excerpt: Molecular docking engine based on Autodock Vina
 date: '2019-03-10'
 thumb_img_path: images/8.jpg
 content_img_path: images/8.jpg
