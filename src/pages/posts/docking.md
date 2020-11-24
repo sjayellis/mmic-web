@@ -1,8 +1,6 @@
 ---
-title: Dynamics
+title: Docking
 excerpt: Molecular docking engine based on Autodock Vina
-date: ''
-thumb_img_path: images/remarkable-owl.png
 template: post
 ---
 # What is Docking?
