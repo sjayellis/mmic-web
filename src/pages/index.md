@@ -13,11 +13,11 @@ sections:
       “what” of scientific stages without restricting the “how” i.e. MMIC
       defines only the input and output the implementation must conform to so
       that end-users can swap out different implementations with minimal effort
-      in their existing pipelines, or workflow tools of their preference. 
+      in their existing pipelines, or workflow tools of their choice. 
   - section_id: components
     type: section_posts
     title: Components Under Development
-    posts_number: 3
+    posts_number: 4
     actions: []
 template: advanced
 ---

@@ -8,7 +8,7 @@ import CtaButtons from './CtaButtons';
 export default class SectionPosts extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
-        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/posts'), 'frontmatter.date', 'desc');
+        let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/posts'), 'desc');
         let recent_posts = display_posts.slice(0, _.get(section, 'posts_number', null));
         return (
             <section id={_.get(section, 'section_id', null)} className="block block-posts">
@@ -31,10 +31,6 @@ export default class SectionPosts extends React.Component {
                         <p>{_.get(post, 'frontmatter.excerpt', null)}</p>
                       </div>
                       )}
-                      <footer className="post-meta">
-                        <time className="published"
-                          dateTime={moment(_.get(post, 'frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date', null)).strftime('%B %d, %Y')}</time>
-                      </footer>
                     </div>
                   </article>
                   ))}

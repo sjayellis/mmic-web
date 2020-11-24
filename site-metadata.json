@@ -3,9 +3,9 @@
     "layout_style": "simple",
     "palette": "blue",
     "header": {
-        "title": "Project",
+        "title": "MM Projects",
         "tagline": "",
-        "profile_img": "images/MolSSI-logo-small.jpg",
+        "profile_img": "images/fabulous-cabbage.jpg",
         "background": "dark",
         "has_nav": true,
         "nav_links": [
@@ -40,35 +40,21 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/MolSSI_NSF",
                 "style": "icon",
                 "icon_class": "fa-twitter",
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "",
-                "style": "icon",
-                "icon_class": "fa-instagram",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/MolSSI",
                 "style": "icon",
                 "icon_class": "fa-github",
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "fa-linkedin",
-                "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
+                "label": "Slack",
+                "url": "https://molssi.slack.com",
                 "style": "icon",
                 "icon_class": "fa-slack",
                 "new_window": true
@@ -79,8 +65,8 @@
         "content": "&copy; 2020 The Molecular Sciences Software Institute.",
         "links": [
             {
-                "label": "",
-                "url": "https://www.stackbit.com",
+                "label": "molssi",
+                "url": "https://molssi.org",
                 "style": "link",
                 "new_window": true
             }

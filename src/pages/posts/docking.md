@@ -9,7 +9,6 @@ Docking is a computational technique used to determine the optimal binding modes
 
 ![Image of Docking](https://github.com/MolSSI/MMIC_docking/blob/master/mmic_docking/data/imgs/docking-sys.png?raw=true)
 
-    
 Applications of docking include:
 
 - Virtual screening (hit identification)
@@ -23,17 +22,29 @@ Applications of docking include:
 ## Preparing Input
 
 ```python
-# Import MM molecule data model
-from mmelemental.models.molecule.mm_molecule import MMolecule
+# Import molecule schema model
+from mmelemental.models.molecule.mm_molecule import Molecule
 
-# Construct MM molecules
+# Construct molecules
+receptor_data   = Molecule.from_file(pdb_file)
+ligand_data     = Molecule.from_data(smiles_code)
+
+# Import docking data model
+from mmic_docking.models.docking.input import DockingInput
+
+# Construct docking input data from molecules
+=======
+# Import molecule schema model
+from mmelemental.models.molecule.mm_molecule import Molecule
+
+# Construct molecules
 receptor_data   = MMolecule.from_file(pdb_file)
 ligand_data     = MMolecule.from_data(smiles_code)
 
 # Import docking data model
 from mmcomponents_docking.models.docking.input import DockingInput
 
-# Construct docking input data from MM molecules
+# Construct docking input data from molecules
 dock_input = DockingInput(ligand=ligand_data, receptor=receptor_data)
 
 ```
@@ -44,7 +55,7 @@ dock_input = DockingInput(ligand=ligand_data, receptor=receptor_data)
 
 ```python
 # Import docking simulation component for autodock vina
-from mmcomponents_docking.autodock.autodock_component import AutoDockComponent
+from mmic_docking.autodock.autodock_component import AutoDockComponent
 
 # Run autodock vina
 dock_output = AutoDockComponent.compute(dock_input)
