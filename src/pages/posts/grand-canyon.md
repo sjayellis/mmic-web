@@ -1,5 +1,5 @@
 ---
-title: Docking
+title: ''
 excerpt: Molecular docking engine based on Autodock Vina
 date: '2020-03-10'
 thumb_img_path: images/remarkable-owl.png
