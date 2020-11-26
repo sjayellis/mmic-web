@@ -7,7 +7,7 @@ template: post
 # What is Molecular Dynamics?
 Molecular Dynamics is the application of Newtonian mechanics to atomistic systems. The inter-atomic potential is specified by a force field that is usually calibrated from quantum mechanical calculations.
 
-![Image of Docking](https://github.com/MolSSI/MMIC_docking/blob/master/mmic_dynamics/data/imgs/dynamics.png?raw=true)
+![Image of MD](https://github.com/MolSSI/MMIC_dynamics/blob/master/mmic_dynamics/data/imgs/dynamics.png?raw=true)
     
 
 # Dynamics Component
@@ -33,7 +33,7 @@ md_input = DynamicsInput(
 ```
 
 ## Running MD Simulation
-![Image of Comp](https://github.com/MolSSI/MMIC_docking/blob/master/mmic_dynamics/data/imgs/md.png?raw=true)
+![Image of Comp](https://github.com/MolSSI/MMIC_dynamics/blob/master/mmic_dynamics/data/imgs/md.png?raw=true)
 
 ```python
 # Import docking simulation component for autodock vina
