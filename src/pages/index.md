@@ -20,7 +20,7 @@ sections:
     posts_number: 4
     actions: []
   - title: MMIC Component
-    section_id: lorem-ipsum
+    section_id: mmic-comp
     content: >-
       ## Lorem ipsum
 
