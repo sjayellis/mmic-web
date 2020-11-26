@@ -19,7 +19,7 @@ sections:
     title: Components Under Development
     posts_number: 4
     actions: []
-  - title: MMIC Component
+  - title: Component
     section_id: mmic-comp
     content: >-
       ## Lorem ipsum
