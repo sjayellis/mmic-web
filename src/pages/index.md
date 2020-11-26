@@ -19,7 +19,7 @@ sections:
     title: Components Under Development
     posts_number: 4
     actions: []
-  - title: lorem-ipsum
+  - title: MMIC Component
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
