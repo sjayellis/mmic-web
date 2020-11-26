@@ -1,6 +1,6 @@
 ---
 title: Dynamics
-excerpt: Molecular dynamics engine based on NAMD
+excerpt: Component for molecular dynamics engine based on NAMD
 thumb_img_path: images/namd.png
 template: post
 ---
