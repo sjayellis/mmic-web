@@ -1,6 +1,6 @@
 ---
 title: Docking
-excerpt: Component for molecular docking engine based on Autodock Vina
+excerpt: Component for molecular docking based on Autodock Vina
 template: post
 thumb_img_path: images/vina-removebg-preview.png
 ---
