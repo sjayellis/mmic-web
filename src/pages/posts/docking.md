@@ -32,8 +32,6 @@ ligand_data     = Molecule.from_data(smiles_code)
 # Import docking data model
 from mmic_docking.models.docking.input import DockingInput
 
-# Construct docking input data from molecules
-=======
 # Import molecule schema model
 from mmelemental.models.molecule.mm_molecule import Molecule
 
@@ -46,7 +44,6 @@ from mmcomponents_docking.models.docking.input import DockingInput
 
 # Construct docking input data from molecules
 dock_input = DockingInput(ligand=ligand_data, receptor=receptor_data)
-
 ```
 
 ## Running Docking with AutoDock Vina component
