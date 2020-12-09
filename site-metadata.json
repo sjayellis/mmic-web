@@ -21,9 +21,9 @@
             },
             {
                 "label": "MMElemental",
-                "url": "https://github.com/MolSSI/MMElemental",
+                "url": "/mmelemental/",
                 "style": "link",
-                "new_window": true
+                "new_window": false
             },
             {
                 "label": "About",
